@@ -18,4 +18,5 @@
     <dt>Location</dt>
     <dd>{person.location}</dd>
     <dt>Occupation</dt>
-    <dd>{person.oc
+    <dd>{person.occupation}</dd>
+</dl>
