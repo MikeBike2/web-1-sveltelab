@@ -1,8 +1,5 @@
 <script>
-    /**
-   * @type {any}
-   */
-     export let navItems;
+    export let navItems;
 </script>
 
 <nav>
